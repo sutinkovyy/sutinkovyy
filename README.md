@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Alona!
 
-<!--
-**sutinkovyy/sutinkovyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cyber Security Engineer based in the UK
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Currently Learning
+- TryHackMe (Pre-Security Path)
+- Linux fundamentals
+- Networking basics (TCP/IP, DNS, HTTP)
+- Enumeration techniques
+- Basic vulnerability analysis
+
+---
+
+##  Hands-On Practice
+- OverTheWire Bandit (Linux wargame)
+- SSH usage
+- File system navigation
+- Command line operations
+- Basic privilege escalation concepts
+
+---
+
+##  Career Goal
+Transitioning into an entry-level Cyber Security role and growing in offensive security.
+
+Open to junior cybersecurity and IT opportunities.
